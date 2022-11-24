@@ -60,6 +60,7 @@ input{
     height: 50px;
     width: 500px;
     padding-left: 7px;
+    margin: 15px 0;
 }
 .text{
     position: sticky;
