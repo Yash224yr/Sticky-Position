@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image{
+    background-image: url("image/camera.webp");
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+}
+.home ul{
+    display: flex;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.home ul li{
+    list-style: none;
+    padding: 20px;
+    font-size: 20px;
+}
+.image2{
+    background-image: url("image/flower.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image2 h1{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
+.bottom{
+    display: flex;
+    margin-right: 530px;
+    margin-top: 73px;
+    margin-left: 80px;
+}
+p{
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+.form h1{
+    text-align: center;
+}
