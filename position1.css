@@ -29,22 +29,34 @@
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
-}
-.image2 h1{
     display: flex;
     justify-content: center;
+    align-items: center;
+}
+.image2 h1{
     font-size: 60px;
 }
 .bottom{
     display: flex;
-    margin-right: 530px;
     margin-top: 73px;
     margin-left: 80px;
 }
+.sports{
+    width: 50%;
+}
 p{
-    font-size: 20px;
+    font-size: 23px;
     padding-bottom: 40px;
+    text-align: justify;
 }
-.form h1{
-    text-align: center;
+.form{
+    width: 50%;
+    margin-left: 80px;
+    font-size: 12px;
 }
+input{
+    height: 50px;
+    width: 500px;
+    padding-left: 7px;
+}
+
